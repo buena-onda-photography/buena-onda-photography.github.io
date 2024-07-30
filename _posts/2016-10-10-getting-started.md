@@ -15,9 +15,6 @@ image: experiment2.jpg
 <img src="../assets/img/experiment3.jpg" alt="experiment">
 
 
-<img src="../assets/img/experiment4.jpg" alt="experiment">
-
-
 <img src="../assets/img/experiment5.jpg" alt="experiment">
 
 
