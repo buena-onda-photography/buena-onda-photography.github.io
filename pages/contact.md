@@ -4,4 +4,10 @@ title: Contact
 permalink: /contact
 ---
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+website of the extremely famous and beloved photografer Konstantino Prekates!
+
+Considered by many as one of the best travel photografers of our times, Konstantino is based in Greece, Cyprus and Thailand (no, he is not a super human who is in multiple places at the same time haha. Just that as a travel photografer, he has many houses and is constantly on the road!)
+
+And he is available for hiring, as such a talented person he does not restrict himself to only travel photografy, no, our guy will also be available to make fotos on your wedding and your event!
+
+Here we are hosting the porfolio to showcase the pure talend of photography, portraits, landscape and nature!
