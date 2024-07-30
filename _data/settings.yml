@@ -7,7 +7,7 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Blog',  url: 'blog'}
+- {name: 'Home',  url: ''}
 - {name: 'Wedding Photos', url: 'wedding'}
 - {name: 'Travel Photos',       url: 'travel'}
 - {name: 'About',              url: 'about'}
