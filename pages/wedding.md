@@ -1,5 +1,7 @@
 ---
-layout: page
-title: Wedding Photos
+layout: post
+title: "Wedding Photos"
 permalink: /wedding
+image: bride.jpg
 ---
+
