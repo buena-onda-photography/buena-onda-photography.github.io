@@ -11,8 +11,8 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Buena Onda"
-description:	       "Travel blog, photography portfolio, and work contact of Konstantinos Prekatas"
-author:              "Konstantinos Prekatas"
+description:	       "Photography portfolio and work contact of Konstantinos Prekatas"
+author:              "Gisela Ortt"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
