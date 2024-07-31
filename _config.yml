@@ -10,7 +10,7 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Buena Onda"
+title:		           "Infinity"
 description:	       "Photography portfolio and work contact of Konstantinos Prekatas"
 author:              "Gisela Ortt"
 
